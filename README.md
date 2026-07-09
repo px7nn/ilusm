@@ -1,8 +1,21 @@
-# ilusm. . .
-A small interactive Valentine experience built with HTML, CSS, and JavaScript.  
-A confession typed slowly — one fragile word at a time.  
-### Experience It Here
-https://px7nn.github.io/ilusm/
+<img align="left" style="width:170px" src="images/speaker.webp" width="288px">
+
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> ilusm. . . </h1>
+    </summary>
+  </ul>
+</div>
+
+**A confession typed slowly — one fragile word at a time.**  
+A small interactive Valentine.  
+
+**Experience It Here**: https://px7nn.github.io/ilusm/
+
+---
+
+<br clear="left"/>
 
 ## About
 This project is a short interactive love letter.
@@ -47,11 +60,6 @@ soundClone.volume = 0.1;
 ```
 This prevents robotic repetition and keeps it organic.
 
-## Technologies Used
-HTML5  
-CSS3  
-Vanilla JavaScript  
-Google Fonts (Pixelify Sans)  
 
 ## License
 This project is personal and expressive.  
