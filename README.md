@@ -8,7 +8,4 @@
   </ul>
 </div>
 
-**A confession typed slowly — one fragile word at a time.**  
-A small interactive Valentine.  
-
-**Experience It Here**: https://px7nn.github.io/ilusm/
+[https://px7nn.github.io/ilusm/](https://px7nn.github.io/ilusm/)
